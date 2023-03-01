@@ -3,7 +3,7 @@ Albania
 Algeria
 Andorra
 Angola
-Antigua & Deps
+Antigua & Barbuda
 Argentina
 Armenia
 Australia
@@ -17,15 +17,14 @@ Belarus
 Belgium
 Belize
 Benin
-Bermuda
 Bhutan
 Bolivia
-Bosnia Herzegovina
+Bosnia & Herzegovina
 Botswana
 Brazil
 Brunei
 Bulgaria
-Burkina
+Burkina Faso
 Burundi
 Cambodia
 Cameroon
@@ -37,6 +36,7 @@ Chile
 China
 Colombia
 Comoros
+Congo
 Costa Rica
 Croatia
 Cuba
@@ -54,6 +54,7 @@ El Salvador
 Equatorial Guinea
 Eritrea
 Estonia
+Eswatini
 Ethiopia
 Fiji
 Finland
@@ -86,8 +87,6 @@ Jordan
 Kazakhstan
 Kenya
 Kiribati
-Korea North
-Korea South
 Kosovo
 Kuwait
 Kyrgyzstan
@@ -127,6 +126,7 @@ New Zealand
 Nicaragua
 Niger
 Nigeria
+North Korea
 Northern Ireland
 Norway
 Oman
@@ -161,12 +161,12 @@ Slovenia
 Solomon Islands
 Somalia
 South Africa
+South Korea
 South Sudan
 Spain
 Sri Lanka
 Sudan
 Suriname
-Swaziland
 Sweden
 Switzerland
 Syria
